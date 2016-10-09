@@ -1,7 +1,7 @@
 {
   "name": "week11liri",
   "version": "1.0.0",
-  "description": "",
+  "description": "nodeliriproject",
   "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/clo2go/week11liri/issues"
   },
-  "homepage": "https://github.com/clo2go/week11liri#readme"
+  "homepage": "https://github.com/clo2go/week11liri#readme",
+  "dependencies": {
+    "imdb-api": "^2.2.0"
+  },
+  "devDependencies": {}
 }

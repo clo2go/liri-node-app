@@ -1,8 +1,8 @@
-var keys = require('./keys.js')
 var Twitter = require('twitter');
 var fs = require('fs');
 var request = require('request');
 var spotify = require('spotify');
+var keys = require('./keys.js')
 
 
 

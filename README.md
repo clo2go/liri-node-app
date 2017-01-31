@@ -2,7 +2,7 @@
 
 #After activating node, liri.js can take in one of the following commands:
 
-> node liri.js **my-tweets**
+`node liri.js my-tweets`
 
 > node liri.js **spotify-this-song**
 

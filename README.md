@@ -2,13 +2,13 @@
 
 #After activating node, liri.js can take in one of the following commands:
 
-node liri.js *my-tweets*
+node liri.js **my-tweets**
 
-node liri.js *spotify-this-song*
+node liri.js **spotify-this-song**
 
-node liri.js *movie-this*
+node liri.js **movie-this**
 
-node liri.js *do-what-it-says*
+node liri.js **do-what-it-says**
 
 
 
